@@ -10,5 +10,6 @@ A simple binary to bytes converter with the ability to encrypt bytes and export 
 <p align="center">
   <br />
   B2B Preview
+  <br />
   <img alt="btb-console" src="./Images/btb-console.png#gh-dark-mode-only" width="1200" />
 </p>
