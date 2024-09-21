@@ -1,0 +1,7 @@
+C:\Users\Waltazar\source\repos\BinaryToBytes\BinaryToBytes\bin\Release\BinaryToBytes.exe.config
+C:\Users\Waltazar\source\repos\BinaryToBytes\BinaryToBytes\bin\Release\BinaryToBytes.exe
+C:\Users\Waltazar\source\repos\BinaryToBytes\BinaryToBytes\bin\Release\BinaryToBytes.pdb
+C:\Users\Waltazar\source\repos\BinaryToBytes\BinaryToBytes\obj\Release\BinaryToBytes.csproj.AssemblyReference.cache
+C:\Users\Waltazar\source\repos\BinaryToBytes\BinaryToBytes\obj\Release\BinaryToBytes.csproj.CoreCompileInputs.cache
+C:\Users\Waltazar\source\repos\BinaryToBytes\BinaryToBytes\obj\Release\BinaryToBytes.exe
+C:\Users\Waltazar\source\repos\BinaryToBytes\BinaryToBytes\obj\Release\BinaryToBytes.pdb
