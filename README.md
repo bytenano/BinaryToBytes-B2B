@@ -12,3 +12,10 @@ A simple binary to bytes converter with the ability to encrypt bytes and export 
 <p align="center">
   <img alt="btb-console" src="./Images/btb-console.png#gh-dark-mode-only" width="1200" />
 </p>
+
+### What can:
+• Byte encryption in AES-256
+• 3 Сonversion methods
+
+### Credits:
+- [Nano](https://t.me/uxnano)
