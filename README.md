@@ -18,4 +18,4 @@ A simple binary to bytes converter with the ability to encrypt bytes and export 
 • 3 Сonversion methods
 
 ### Credits:
-- [Nano](https://t.me/uxnano)
+Nano — https://t.me/uxnano
