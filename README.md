@@ -14,7 +14,7 @@ A simple binary to bytes converter with the ability to encrypt bytes and export 
 </p>
 
 ### What can:
-• Byte encryption in AES-256
+• Byte encryption in AES-256 <br />
 • 3 Сonversion methods
 
 ### Credits:
