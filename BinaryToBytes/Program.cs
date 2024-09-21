@@ -31,10 +31,10 @@ namespace BinaryToBytes
        / __ )__ \ / __ )   / ____/___  ____ _   _____  _____/ /____  _____
       / __  |_/ // __  |  / /   / __ \/ __ \ | / / _ \/ ___/ __/ _ \/ ___/
      / /_/ / __// /_/ /  / /___/ /_/ / / / / |/ /  __/ /  / /_/  __/ /    
-    /_____/____/_____/   \____/\____/_/ /_/|___/\___/_/   \__/\___/_/     
-                                                                      
-");
+    /_____/____/_____/   \____/\____/_/ /_/|___/\___/_/   \__/\___/_/     ");
             Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine("");
+            Console.WriteLine("    Coded: Nano [ github.com/bytenano ] ");
 
             if (binaryPath == null)
             {
